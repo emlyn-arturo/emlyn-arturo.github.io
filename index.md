@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "The journey of a lifetime"
 layout: page
 categories: media
 ---
