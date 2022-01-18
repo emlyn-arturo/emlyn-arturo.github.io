@@ -1,5 +1,6 @@
 ---
 title: "Blog"
-permalink: "/blog/"
 layout: page
 ---
+
+I am a student at a University. 
