@@ -15,5 +15,7 @@ I am always asked how I do what I do -
 ---
 
 > ambitious
+> 
 > aspiring
+> 
 > ambidextrous
